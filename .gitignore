@@ -1,0 +1,6 @@
+build/header.obj
+build/header.class
+thumbs.db
+*.obj
+logs/*.log
+!logs/special.log
